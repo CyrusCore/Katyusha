@@ -1,4 +1,4 @@
-# [🤖 Katyusha](https://discord.com/oauth2/authorize?client_id=842036225530396672&scope=bot&permissions=8589934591)
+# [Katyusha](https://dsc.lol/katyusha)
 #### A **Multipurposed Discord Bot** Made Using [discord.js](https://discord.js.org/#)
 
 ## ℹ About Katyusha
