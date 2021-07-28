@@ -1,0 +1,26 @@
+{
+  "mainprefix": "prefix",
+  "token": "Your bot token",
+  "default_prefix": "prefix",
+  "mongoDBURL": "mongodb url",
+  "mongoDBChatbot": "same but for chat bot", 
+  "everyoneMention": false,
+  "hostedBy": true,
+  "botsCanWin": false,
+  "dev": "you discord id",
+  "ytk": "youtube api key",
+  "clientID": "",
+  "clientSecret": "",
+  "QUEUE_LIMIT": 100,
+  "COLOR": "RANDOM",
+  "embedcolor": "RANDOM",
+  "emoji": {
+        "play": "▶️",
+        "stop": "⏹️",
+        "queue": "📄",
+        "success": "☑️",
+        "repeat": "🔁",
+        "error": "❌"
+    },
+  "base_lang": "en"
+}
